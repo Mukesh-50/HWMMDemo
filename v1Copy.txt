@@ -1,3 +1,5 @@
 asda
 changes from wakil
 fetch
+stash
+newstash
